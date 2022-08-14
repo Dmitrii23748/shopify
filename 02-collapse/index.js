@@ -14,6 +14,7 @@ const hideAnimate = [
   },
 ];
 
+
 const setting = {
   duration: 400,
   fill: "forwards",

@@ -4,13 +4,13 @@ const content = document.querySelector(".collapsible__content");
 
 const visibleAnimate = [
   {
-    opacity: "0",
+    opacity: "0"
   },
 ];
 
 const hideAnimate = [
   {
-    opacity: "1",
+    opacity: "1"
   },
 ];
 
